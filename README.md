@@ -6,3 +6,4 @@ I have 4 years of java experience. Until now, I have used many languages and dev
 I'm instered in Kotlin for now. Kotlin ❤️ Me
 
 **[LINKEDIN](https://www.linkedin.com/in/furkanbalci0/)** | **[INSTAGRAM](https://www.instagram.com/furkanbalci0/)**
+![](https://komarev.com/ghpvc/?username=furkanbalci0)
