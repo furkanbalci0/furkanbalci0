@@ -9,7 +9,7 @@ Specialties: Java, Kotlin, Android
 
 Kotlin ❤️ Me
 
-**[LINKEDIN](https://www.linkedin.com/in/furkanbalci0/)** | **[INSTAGRAM](https://www.instagram.com/furkanbalci0/)**
+**[FURKI.NET](https://furki.net/)** | **[LINKEDIN](https://www.linkedin.com/in/furkanbalci0/)** | **[INSTAGRAM](https://www.instagram.com/furkanbalci0/)**
 
-
+#### If you've been seeing few commits lately, it's because I use **BitBucket**. I work everyday.
 ![](https://komarev.com/ghpvc/?username=furkanbalci0)
