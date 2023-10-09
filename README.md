@@ -16,3 +16,4 @@ Kotlin ❤️ Me
 ### If you've been seeing few commits lately, it's because I use **BitBucket**. I work everyday.
 
 ![](https://komarev.com/ghpvc/?username=furkanbalci0)
+[![wakatime](https://wakatime.com/badge/user/b7d64418-1e77-4fff-9b79-03f02bfc3476.svg)](https://wakatime.com/@b7d64418-1e77-4fff-9b79-03f02bfc3476)
