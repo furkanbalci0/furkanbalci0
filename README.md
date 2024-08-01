@@ -1,18 +1,10 @@
 ## About Me
 
-I'm Furkan (23), working on private repositories.
+I'm Furkan (24), working on private repositories.
 
-I am a software developer with 7 years of software experience and 3 years of Android development experience with Kotlin. My passion for my job allows me to learn new things every day and work with the most up-to-date technologies. Android development is not just a job for me, it's an art and a way of life.
+For the past 3 years, I have been deeply immersed in Android development. During this time, I have continuously sought opportunities to advance my skills with the latest technologies. My dedication to learning new things every day and my goal to excel drive me to constantly renew and elevate my capabilities in the Android development field. Looking ahead, my objective is to become one of the leading experts in this area and to continue producing innovative solutions.
 
-While I am excited about taking part in big projects, it is also important for me to guide beginners and share knowledge. My goal is to become a Master Expert in Android development and to constantly improve myself on this path.
-
-Understanding the complex needs of the business world and providing user-friendly solutions is not just a duty but also a passion for me. In every project, I work to make users' lives easier and add value to the business world.
-
-Specialties: Kotlin, Android
-
-Kotlin ❤️ Me
-
-**[FURKI.NET](https://furki.net/)** | **[LINKEDIN](https://www.linkedin.com/in/furkanbalci0/)** | **[INSTAGRAM](https://www.instagram.com/furkanbalci0/)** | **[MAIL](mailto:furkanbalci000@gmail.com)**
+**[FURKI.NET](https://furki.net/)** | **[LINKEDIN](https://www.linkedin.com/in/furkanbalci0/)** | **[MAIL](mailto:furkanbalci000@gmail.com)**
 
 ### If you've been seeing few commits lately, it's because I use **BitBucket**. I work everyday.
 
