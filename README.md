@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Furkan (24), working on private repositories.
+I'm Furkan (24),
 
 For the past 3 years, I have been deeply immersed in Android development. During this time, I have continuously sought opportunities to advance my skills with the latest technologies. My dedication to learning new things every day and my goal to excel drive me to constantly renew and elevate my capabilities in the Android development field. Looking ahead, my objective is to become one of the leading experts in this area and to continue producing innovative solutions.
 
