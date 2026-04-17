@@ -1,8 +1,8 @@
 ## About Me
 
-I'm Furkan (24),
+I'm Furkan (26),
 
-For the past 3 years, I have been deeply immersed in Android development. During this time, I have continuously sought opportunities to advance my skills with the latest technologies. My dedication to learning new things every day and my goal to excel drive me to constantly renew and elevate my capabilities in the Android development field. Looking ahead, my objective is to become one of the leading experts in this area and to continue producing innovative solutions.
+For the past 4 years, I have been deeply immersed in Android development. During this time, I have continuously sought opportunities to advance my skills with the latest technologies. My dedication to learning new things every day and my goal to excel drive me to constantly renew and elevate my capabilities in the Android development field. Looking ahead, my objective is to become one of the leading experts in this area and to continue producing innovative solutions.
 
 **[FURKI.NET](https://furki.net/)** | **[LINKEDIN](https://www.linkedin.com/in/furkanbalci0/)** | **[MAIL](mailto:furkanbalci000@gmail.com)**
 
